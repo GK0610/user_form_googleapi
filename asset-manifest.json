@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user_form_googleapi/static/css/main.10ac0017.css",
+    "main.js": "/user_form_googleapi/static/js/main.fd629e2f.js",
+    "static/js/453.32405dca.chunk.js": "/user_form_googleapi/static/js/453.32405dca.chunk.js",
+    "index.html": "/user_form_googleapi/index.html",
+    "main.10ac0017.css.map": "/user_form_googleapi/static/css/main.10ac0017.css.map",
+    "main.fd629e2f.js.map": "/user_form_googleapi/static/js/main.fd629e2f.js.map",
+    "453.32405dca.chunk.js.map": "/user_form_googleapi/static/js/453.32405dca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ac0017.css",
+    "static/js/main.fd629e2f.js"
+  ]
+}
