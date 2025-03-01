@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import UserForm from "./components/UserForm";
 
 const App: React.FC = () => {
@@ -7,7 +7,6 @@ const App: React.FC = () => {
     <Router>
       <Routes>
         <Route path="/" element={<UserForm />} />
-        <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
   );
