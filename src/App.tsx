@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<UserForm />} />
+        <Route path="/user_form_googleapi" element={<UserForm />} />
       </Routes>
     </Router>
   );
